@@ -1,5 +1,5 @@
 aiofiles==23.2.1
-aiogram==3.18.0
+aiogram==3.20.0.post0
 aiohttp==3.9.5
 aiosignal==1.3.2
 annotated-types==0.7.0
