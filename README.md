@@ -20,8 +20,9 @@ cd tgbot_shop
 
 ### 2. Configure Environment Variables
 1. Copy the `.env.example` file to `.env`:
-   ```bash
-   cp .env.example .env
+```bash
+cp .env.example .env
+```
 
 ### 3. Build Docker Images
 
